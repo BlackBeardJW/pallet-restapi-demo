@@ -2,6 +2,10 @@
 
 A simple FastAPI application demonstrating CRUD operations for managing pallets.
 
+
+![Swagger UI](screenshots/swagger_ui.png)
+
+
 ## Features
 
 - Create, read, update, delete pallets
@@ -34,3 +38,5 @@ http://127.0.0.1:8000/docs
 "weight": 100.0,
 "dimensions": "120x80x100"
 }
+
+
