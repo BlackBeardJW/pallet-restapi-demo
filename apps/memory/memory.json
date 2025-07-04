@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "label": "Pallet A",
+    "location": "Zone 1",
+    "status": "Stored"
+  },
+  {
+    "id": 2,
+    "label": "Pallet B",
+    "location": "Zone 2",
+    "status": "Stored"
+  },
+  {
+    "id": 3,
+    "label": "Pallet C",
+    "location": "Zone 3",
+    "status": "Stored"
+  },
+  {
+    "id": 4,
+    "label": "Pallet D",
+    "location": "Zone 4",
+    "status": "Stored"
+  },
+  {
+    "id": 5,
+    "label": "Pallet E",
+    "location": "Zone 5",
+    "status": "Stored"
+  },
+  {
+    "id": 6,
+    "label": "Pallet F",
+    "location": "Zone 6",
+    "status": "Stored"
+  },
+  {
+    "id": 7,
+    "label": "Pallet G",
+    "location": "Zone 7",
+    "status": "Stored"
+  },
+  {
+    "id": 8,
+    "label": "Pallet H",
+    "location": "Zone 8",
+    "status": "Stored"
+  },
+  {
+    "id": 9,
+    "label": "Pallet I",
+    "location": "Zone 9",
+    "status": "Stored"
+  },
+  {
+    "id": 10,
+    "label": "Pallet J",
+    "location": "Zone 10",
+    "status": "Stored"
+  }
+]
