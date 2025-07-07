@@ -42,3 +42,7 @@ def delete_pallet(pallet_id: int, db: Session = Depends(get_db)):
     db.delete(db_pallet)
     db.commit()
     return db_pallet
+@router.get("/pallets/", response_model=list[PalletResponse])
+def read_pallets(skip: int = 0, limit: int = 10, db: Session = Depends(get_db)):
+    pallets = db.query(Pallet).offset(skip).limit(limit).all()
+    return pallets

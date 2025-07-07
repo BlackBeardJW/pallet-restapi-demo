@@ -1,0 +1,49 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.container {
+  max-width: 900px;
+}
+
+h1 {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+h3 {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+form input {
+  min-width: 200px;
+}
+
+button[type="submit"] {
+  min-width: 140px;
+}
+
+table {
+  background-color: #fff;
+}
+
+table tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+.btn-danger {
+  transition: background-color 0.3s ease;
+}
+
+.btn-danger:hover {
+  background-color: #c82333;
+}
+
+.btn-secondary {
+  transition: background-color 0.3s ease;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268;
+}
